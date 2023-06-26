@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeVidijune15_Mon
+  gitServerName: vidijune15
+  gitUrl: https://github.com/vijetadixit/EdgeVidijune15_Mon
+  gitUsername: vijetadixit
+  gitToken: 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
+  gitBranch: master
